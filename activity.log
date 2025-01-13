@@ -195,3 +195,4 @@
 2025-01-13T00:00:00 - 21 - Fix minor bugs in data preprocessing
 2025-01-13T00:00:00 - 22 - Add unit tests for core modules
 2025-01-13T00:00:00 - 23 - Add support for new dataset
+2025-01-13T00:00:00 - 24 - Adjust hyperparameters for better convergence
