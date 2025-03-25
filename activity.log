@@ -1088,3 +1088,4 @@
 2025-03-25T00:00:00 - 15 - Update documentation and README
 2025-03-25T00:00:00 - 16 - Update dependencies in requirements.txt
 2025-03-25T00:00:00 - 17 - Update dependencies in requirements.txt
+2025-03-25T00:00:00 - 18 - Fix issue with model saving and loading
