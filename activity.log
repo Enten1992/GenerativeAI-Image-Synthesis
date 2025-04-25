@@ -340,3 +340,4 @@
 2025-04-25T00:00:00 - 7 - Add support for new dataset
 2025-04-25T00:00:00 - 8 - Optimize training loop
 2025-04-25T00:00:00 - 9 - Add support for new dataset
+2025-04-25T00:00:00 - 10 - Add unit tests for core modules
