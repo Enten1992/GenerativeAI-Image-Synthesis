@@ -425,3 +425,4 @@
 2025-07-18T00:00:00 - 27 - Add support for new dataset
 2025-07-18T00:00:00 - 28 - Update documentation and README
 2025-07-18T00:00:00 - 29 - Update project structure
+2025-07-18T00:00:00 - 30 - Adjust hyperparameters for better convergence
